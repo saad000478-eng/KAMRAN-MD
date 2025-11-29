@@ -1,14 +1,14 @@
 {
-  "name": "KAMRAN-MD",
-  "description": "Javascript WhatsApp bot made by DR KAMRAN",
-  "logo": "https://files.catbox.moe/ly6553.jpg",
+  "name": "Ak-MD",
+  "description": "Javascript WhatsApp bot made by DR AmiN",
+  "logo": "",
   "keywords": ["KAMRAN-MD"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "IK~tuRgTA7Z#WTltcHjQQ8KwH2aOnY5c0dj6QIhSVFSIjePp2oN1dX8",
       "required": true,
       "value": ""
     },  
@@ -16,13 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "AK-MD"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "/"
     },
     
     "MODE": {
@@ -91,14 +91,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923195068309"
+      "value": "923128942224"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "Ak-MD"
 
       }, 
 
@@ -124,13 +124,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ly6553.jpg"
+      "value": ""
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DR KAMRAN*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Amine*"
     },
 
       "DELETE_LINKS": {
